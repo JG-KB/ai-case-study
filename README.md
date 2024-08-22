@@ -7,12 +7,13 @@
 **Incorporation Date:** December 2015
 
 **Founders:**
-- Elon Musk: Tech entrepreneur, co-founder of Tesla and SpaceX.
-- Sam Altman: Former president of Y Combinator, an influential startup accelerator.
-- Greg Brockman: Former CTO of Stripe, a major online payments company.
-- Ilya Sutskever: AI researcher and former Google Brain team member.
-- Wojciech Zaremba: AI researcher with expertise in robotics and machine learning.
-- John Schulman: Research scientist with a focus on reinforcement learning.
+- **Elon Musk:** *Tech entrepreneur, co-founder of Tesla and SpaceX.*
+- **Sam Altman:** *Former president of Y Combinator, an influential startup accelerator.*
+- **Greg Brockman:** *Former CTO of Stripe, a major online payments company.*
+- **Ilya Sutskever:** *AI researcher and former Google Brain team member.*
+- **Wojciech Zaremba:** *AI researcher with expertise in robotics and machine learning.*
+- **John Schulman:** *Research scientist with a focus on reinforcement learning.*
+
 
 **Project Origin:**
 The idea for OpenAI Five emerged from OpenAI’s broader mission to ensure that artificial general intelligence (AGI) benefits all of humanity. Dota 2 was chosen due to its complexity, requiring long-term strategic planning, teamwork, and adaptability, which made it an ideal testbed for pushing the limits of reinforcement learning.
