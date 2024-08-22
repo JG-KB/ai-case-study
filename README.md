@@ -129,7 +129,7 @@ To navigate these challenges, it is crucial for OpenAI to maintain strong intern
 
 ## Visual Representation
 ![Dota 2 Inspired Image](https://raw.githubusercontent.com/JG-KB/ai-case-study/main/dota_2_imitate_art.webp)
-*Figure 1: A stylized representation of the Dota 2 battlefield with a Moorish artistic flare, illustrating the concept discussed in the case study.*
+*Figure 1: A stylized representation of a Dota 2 type battlefield illustrating the concept discussed in the case study.*
 
 ## Citations
 
