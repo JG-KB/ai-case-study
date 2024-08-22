@@ -19,7 +19,7 @@
 The idea for OpenAI Five emerged from OpenAI’s broader mission to ensure that artificial general intelligence (AGI) benefits all of humanity. Dota 2 was chosen due to its complexity, requiring long-term strategic planning, teamwork, and adaptability, which made it an ideal testbed for pushing the limits of reinforcement learning.
 
 > "One AI milestone is to exceed human capabilities in a complex video game like StarCraft or Dota. Relative to previous AI milestones like Chess or Go, complex video games start to capture the messiness and continuous nature of the real world. The hope is that systems which solve complex video games will be highly general, with applications outside of games."
-> – *OpenAI Five: The Journey*
+> – *[OpenAI Five: The Journey](https://openai.com/blog/openai-five/)*
 
 
 **Funding:**
@@ -30,7 +30,7 @@ OpenAI initially operated as a non-profit with $1 billion in committed funding f
 **Problem Solved:**
 OpenAI Five sought to demonstrate that AI could excel in environments with high uncertainty and complexity, such as Dota 2, where the sheer number of possible game states and required coordination among team members far exceeds that of traditional games like chess or Go.
 > "The game of Dota 2 presents novel challenges for AI systems such as long time horizons, imperfect information, and complex, continuous state-action spaces, all challenges which will become increasingly central to more capable AI systems."  
-- *[Dota 2 with Large Scale Deep Reinforcement Learning](https://arxiv.org/abs/1912.06680)*
+> - *[Dota 2 with Large Scale Deep Reinforcement Learning](https://arxiv.org/abs/1912.06680)*
 
 **Intended Customers:**
 While the project was primarily a research endeavor, it captured the attention of AI researchers, gaming companies, and the general public. The gaming industry, in particular, benefited from the demonstration of AI's potential to enhance game development and player experience.
@@ -63,7 +63,7 @@ Over the past decade, AI in gaming has shifted from rule-based systems to more a
 **Business Impact:**
 OpenAI Five achieved global recognition when it defeated top-tier professional Dota 2 teams, showcasing the practical potential of AI in complex, real-time environments. This success solidified OpenAI's reputation as a leader in AI research and attracted further investment and partnerships, particularly with Microsoft.
 > "By defeating the Dota 2 world champion (Team OG), OpenAI Five demonstrates that self-play reinforcement learning can achieve superhuman performance on a difficult task."  
-- *[Dota 2 with Large Scale Deep Reinforcement Learning](https://arxiv.org/abs/1912.06680)*
+> - *[Dota 2 with Large Scale Deep Reinforcement Learning](https://arxiv.org/abs/1912.06680)*
 
 **Core Metrics:**
 - **Win Rate:** OpenAI Five achieved an impressive win rate against both amateur and professional human players, with its most notable victory being against the reigning Dota 2 world champions, OG.
@@ -109,7 +109,7 @@ By utilizing transfer learning, OpenAI can similarly adapt AI techniques develop
 These technologies are well-suited to the challenges of real-world applications, where AI must not only learn from scratch but also adapt to existing knowledge and systems. However, the effectiveness of implementing such advanced AI techniques depends not only on technological readiness but also on the stability and coherence of the organization's strategic direction. Given the ongoing disputes between key figures such as Elon Musk and Sam Altman, there is an underlying risk that leadership conflicts could disrupt the cohesive decision-making necessary for long-term AI development.
 
 > "At the heart of Musk's lawsuit are allegations that OpenAI has strayed from its founding principles, which emphasized open-source development and ethical considerations in AI advancement. The lawsuit argues that the company's current focus on profit, particularly through its close partnership with Microsoft, represents a departure from these initial goals. This partnership is under intense scrutiny, with Musk alleging that it compromises OpenAI's independence and contradicts its original open-source ethos. Such internal and external pressures could challenge the broader trajectory of AI development at OpenAI, particularly concerning the commercialization of Artificial General Intelligence (AGI)."
-> – [What Elon Musk's Renewed Lawsuit Against OpenAI Means for the AI Industry](https://www.unite.ai/what-elon-musks-renewed-lawsuit-against-openai-means-for-the-ai-industry/)
+> – *[What Elon Musk's Renewed Lawsuit Against OpenAI Means for the AI Industry](https://www.unite.ai/what-elon-musks-renewed-lawsuit-against-openai-means-for-the-ai-industry/)*
 
 
 To navigate these challenges, it is crucial for OpenAI to maintain strong internal decision-making processes that can ensure continuity in its research and development efforts. Additionally, fostering transparent communication within the organization and with external stakeholders can help mitigate uncertainties, ensuring that the company remains focused on its mission despite potential leadership dynamics. By addressing these organizational aspects, OpenAI can better position itself to fully realize the potential of transfer learning and hybrid systems in advancing AI applications across diverse domains.
