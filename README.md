@@ -19,7 +19,7 @@
 The idea for OpenAI Five emerged from OpenAI’s broader mission to ensure that artificial general intelligence (AGI) benefits all of humanity. Dota 2 was chosen due to its complexity, requiring long-term strategic planning, teamwork, and adaptability, which made it an ideal testbed for pushing the limits of reinforcement learning.
 
 > "One AI milestone is to exceed human capabilities in a complex video game like StarCraft or Dota. Relative to previous AI milestones like Chess or Go, complex video games start to capture the messiness and continuous nature of the real world. The hope is that systems which solve complex video games will be highly general, with applications outside of games."
-> – *[OpenAI Five: The Journey](https://openai.com/blog/openai-five/){:target="_blank"}*
+> – *<a href="https://openai.com/blog/openai-five/" target="_blank">OpenAI Five: The Journey</a>*
 
 
 **Funding:**
