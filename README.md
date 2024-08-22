@@ -39,9 +39,15 @@ While the project was primarily a research endeavor, it captured the attention o
 Unlike traditional game AI that relies on scripted behaviors, OpenAI Five utilized deep reinforcement learning, allowing the AI to learn optimal strategies through self-play. The distributed training process, running on thousands of GPUs, enabled OpenAI Five to train faster and more effectively than any previous AI.
 
 **Technologies Used:**
-- **Proximal Policy Optimization (PPO):** A reinforcement learning algorithm developed by OpenAI to balance exploration and exploitation during training.
+
+- **Proximal Policy Optimization (PPO):** A reinforcement learning algorithm developed by OpenAI to balance exploration and exploitation during training. Unlike standard policy gradient methods, PPO allows for multiple epochs of minibatch updates, striking a favorable balance between sample complexity, simplicity, and wall-time.
+
+> We propose a new family of policy gradient methods for reinforcement learning, which alternate between sampling data through interaction with the environment, and optimizing a “surrogate” objective function using stochastic gradient ascent. Whereas standard policy gradient methods perform one gradient update per data sample, we propose a novel objective function that enables multiple epochs of minibatch updates. The new methods, which we call proximal policy optimization (PPO), have some of the benefits of trust region policy optimization (TRPO), but they are much simpler to implement, more general, and have better sample complexity (empirically). Our experiments test PPO on a collection of benchmark tasks, including simulated robotic locomotion and Atari game playing, and we show that PPO outperforms other online policy gradient methods, and overall strikes a favorable balance between sample complexity, simplicity, and wall-time.  
+> – *[Proximal Policy Optimization](https://arxiv.org/abs/1707.06347)*
+
 - **Distributed Training:** Leveraging vast computational resources to parallelize training across thousands of instances, dramatically speeding up the learning process.
 - **Self-Play:** A technique where the AI continually plays against itself, learning from its mistakes and improving over time without human intervention.
+
 
 ## Landscape
 
