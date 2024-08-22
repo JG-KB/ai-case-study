@@ -127,6 +127,9 @@ These technologies are well-suited to the challenges of real-world applications,
 
 To navigate these challenges, it is crucial for OpenAI to maintain strong internal decision-making processes that can ensure continuity in its research and development efforts. Additionally, fostering transparent communication within the organization and with external stakeholders can help mitigate uncertainties, ensuring that the company remains focused on its mission despite potential leadership dynamics. By addressing these organizational aspects, OpenAI can better position itself to fully realize the potential of transfer learning and hybrid systems in advancing AI applications across diverse domains.
 
+## Visual Representation
+![Dota 2 Inspired Image](https://raw.githubusercontent.com/JG-KB/ai-case-study/main/dota_2_imitate_art.webp)
+*Figure 1: A stylized representation of the Dota 2 battlefield with a Moorish artistic flare, illustrating the concept discussed in the case study.*
 
 ## Citations
 
@@ -136,6 +139,3 @@ To navigate these challenges, it is crucial for OpenAI to maintain strong intern
 - [Proximal Policy Optimization](https://arxiv.org/abs/1707.06347)
 - [What Elon Musk's Renewed Lawsuit Against OpenAI Means for the AI Industry](https://www.unite.ai/what-elon-musks-renewed-lawsuit-against-openai-means-for-the-ai-industry/)
 - [5 Ways IBM Watson Is Changing Health Care](https://www.medicaldaily.com/5-ways-ibm-watson-changing-health-care-diagnosing-disease-treating-it-364394)
-
-
-![Dota 2 Inspired Image](https://raw.githubusercontent.com/JG-KB/ai-case-study/main/dota_2_imitate_art.webp)
