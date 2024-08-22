@@ -79,6 +79,7 @@ These technologies are well-suited to the challenges of real-world applications,
 ## Citations
 
 - [OpenAI Five: The Journey](https://openai.com/blog/openai-five/)
+- [Dota 2 with Large Scale Deep Reinforcement Learning](https://arxiv.org/abs/1912.06680)
 - [Microsoft Invests in OpenAI](https://www.microsoft.com/en-us/research/blog/openai-and-microsoft-announce-partnership/)
 - [DeepMind’s AlphaStar and Its Impact](https://deepmind.com/blog/alphastar-mastering-the-real-time-strategy-game-starcraft-ii)
 - [Proximal Policy Optimization](https://arxiv.org/abs/1707.06347)
