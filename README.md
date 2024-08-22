@@ -29,6 +29,8 @@ OpenAI initially operated as a non-profit with $1 billion in committed funding f
 
 **Problem Solved:**
 OpenAI Five sought to demonstrate that AI could excel in environments with high uncertainty and complexity, such as Dota 2, where the sheer number of possible game states and required coordination among team members far exceeds that of traditional games like chess or Go.
+> "The game of Dota 2 presents novel challenges for AI systems such as long time horizons, imperfect information, and complex, continuous state-action spaces, all challenges which will become increasingly central to more capable AI systems."  
+> – *Dota 2 with Large Scale Deep Reinforcement Learning*
 
 **Intended Customers:**
 While the project was primarily a research endeavor, it captured the attention of AI researchers, gaming companies, and the general public. The gaming industry, in particular, benefited from the demonstration of AI's potential to enhance game development and player experience.
@@ -47,6 +49,8 @@ Unlike traditional game AI that relies on scripted behaviors, OpenAI Five utiliz
 
 **Trends and Innovations:**
 Over the past decade, AI in gaming has shifted from rule-based systems to more adaptive, learning-based approaches. Reinforcement learning has emerged as a key technique, with applications extending beyond gaming into fields like robotics, finance, and autonomous systems. Notable innovations include DeepMind's AlphaGo, which conquered the ancient game of Go, and OpenAI Five, which tackled the highly dynamic environment of Dota 2.
+> "High-dimensional, continuous action space. In Dota, each hero can take dozens of actions, and many actions target either another unit or a position on the ground. We discretize the space into 170,000 possible actions per hero (not all valid each tick, such as using a spell on cooldown); not counting the continuous parts, there are an average of ~1,000 valid actions each tick. The average number of actions in chess is 35; in Go, 250."  
+> – *OpenAI Five: The Journey*
 
 **Competitors:**
 - **DeepMind:** Known for AlphaGo and AlphaStar, which focused on real-time strategy games like StarCraft II.
@@ -57,6 +61,8 @@ Over the past decade, AI in gaming has shifted from rule-based systems to more a
 
 **Business Impact:**
 OpenAI Five achieved global recognition when it defeated top-tier professional Dota 2 teams, showcasing the practical potential of AI in complex, real-time environments. This success solidified OpenAI's reputation as a leader in AI research and attracted further investment and partnerships, particularly with Microsoft.
+> "By defeating the Dota 2 world champion (Team OG), OpenAI Five demonstrates that self-play reinforcement learning can achieve superhuman performance on a difficult task."  
+> – *Dota 2 with Large Scale Deep Reinforcement Learning*
 
 **Core Metrics:**
 - **Win Rate:** OpenAI Five achieved an impressive win rate against both amateur and professional human players, with its most notable victory being against the reigning Dota 2 world champions, OG.
@@ -67,6 +73,20 @@ OpenAI Five achieved global recognition when it defeated top-tier professional D
 Compared to competitors like DeepMind's AlphaStar, OpenAI Five excelled in a more complex, team-based environment, setting a new standard for what AI could achieve in gaming. However, OpenAI Five's specialization in Dota 2 also highlighted the challenges of generalizing AI skills across different types of games and tasks.
 
 ## Recommendations
+
+**Implement Complex Reward Structures in AI Training**  
+To ensure smooth and effective learning curves in AI models, OpenAI and similar companies should implement complex reward structures that reward a variety of intermediate actions rather than relying solely on binary win/lose rewards. Research has shown that binary rewards can lead to slower learning and plateauing, whereas shaped rewards encourage consistent progress and adaptation.
+
+> "Binary rewards can give good performance. Our 1v1 model had a shaped reward, including rewards for last hits, kills, and the like. We ran an experiment where we only rewarded the agent for winning or losing, and it trained an order of magnitude slower and somewhat plateaued in the middle, in contrast to the smooth learning curves we usually see."  
+> – *OpenAI Five: The Journey*
+
+**Allocate Sufficient Computational Resources for Optimal AI Training**  
+Achieving superhuman performance in complex environments requires not only sophisticated reward structures but also substantial computational power. OpenAI's experience shows that even with significant resources, the choice of reward structure can limit performance. To reach higher levels of AI capability, companies must ensure they have the necessary computational infrastructure.
+
+> "The experiment ran on 4,500 cores and 16 k80 GPUs, training to the level of semi-pros (70 TrueSkill) rather than 90 TrueSkill of our best 1v1 bot."  
+> – *OpenAI Five: The Journey*
+
+By following these recommendations, OpenAI can continue to push the boundaries of AI performance, ensuring that their models not only learn efficiently but also achieve and maintain superhuman capabilities in increasingly complex environments.
 
 **Suggested Products/Services:**
 OpenAI could expand its reinforcement learning technology to other strategic, multi-agent environments beyond gaming. For example, applying these techniques to autonomous robotics, financial markets, or even real-time logistics could yield significant commercial benefits.
@@ -87,4 +107,3 @@ These technologies are well-suited to the challenges of real-world applications,
 - [Dota 2 with Large Scale Deep Reinforcement Learning](https://arxiv.org/abs/1912.06680)
 - [DeepMind’s AlphaStar and Its Impact](https://deepmind.com/blog/alphastar-mastering-the-real-time-strategy-game-starcraft-ii)
 - [Proximal Policy Optimization](https://arxiv.org/abs/1707.06347)
-
