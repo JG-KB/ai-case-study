@@ -30,7 +30,7 @@ OpenAI initially operated as a non-profit with $1 billion in committed funding f
 **Problem Solved:**
 OpenAI Five sought to demonstrate that AI could excel in environments with high uncertainty and complexity, such as Dota 2, where the sheer number of possible game states and required coordination among team members far exceeds that of traditional games like chess or Go.
 > "The game of Dota 2 presents novel challenges for AI systems such as long time horizons, imperfect information, and complex, continuous state-action spaces, all challenges which will become increasingly central to more capable AI systems."  
-> - *[Dota 2 with Large Scale Deep Reinforcement Learning](https://arxiv.org/abs/1912.06680)*
+> – *[Dota 2 with Large Scale Deep Reinforcement Learning](https://arxiv.org/abs/1912.06680)*
 
 **Intended Customers:**
 While the project was primarily a research endeavor, it captured the attention of AI researchers, gaming companies, and the general public. The gaming industry, in particular, benefited from the demonstration of AI's potential to enhance game development and player experience.
@@ -63,7 +63,7 @@ Over the past decade, AI in gaming has shifted from rule-based systems to more a
 **Business Impact:**
 OpenAI Five achieved global recognition when it defeated top-tier professional Dota 2 teams, showcasing the practical potential of AI in complex, real-time environments. This success solidified OpenAI's reputation as a leader in AI research and attracted further investment and partnerships, particularly with Microsoft.
 > "By defeating the Dota 2 world champion (Team OG), OpenAI Five demonstrates that self-play reinforcement learning can achieve superhuman performance on a difficult task."  
-> - *[Dota 2 with Large Scale Deep Reinforcement Learning](https://arxiv.org/abs/1912.06680)*
+> – *[Dota 2 with Large Scale Deep Reinforcement Learning](https://arxiv.org/abs/1912.06680)*
 
 **Core Metrics:**
 - **Win Rate:** OpenAI Five achieved an impressive win rate against both amateur and professional human players, with its most notable victory being against the reigning Dota 2 world champions, OG.
