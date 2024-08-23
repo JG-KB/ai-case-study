@@ -1,5 +1,35 @@
 # OpenAI Five: Mastering Complex Multi-Agent Environments Through Reinforcement Learning
 
+### Table of Contents
+
+1. [Overview and Origin](#overview-and-origin)
+   - [Name of Company](#name-of-company)
+   - [Incorporation Date](#incorporation-date)
+   - [Founders](#founders)
+   - [Project Origin](#project-origin)
+   - [Funding](#funding)
+2. [Business Activities](#business-activities)
+   - [Problem Solved](#problem-solved)
+   - [Intended Customers](#intended-customers)
+   - [Unique Solution](#unique-solution)
+   - [Technologies Used](#technologies-used)
+3. [Landscape](#landscape)
+   - [Field](#field)
+   - [Trends and Innovations](#trends-and-innovations)
+   - [Competitors](#competitors)
+4. [Results](#results)
+   - [Business Impact](#business-impact)
+   - [Core Metrics](#core-metrics)
+   - [Performance Relative to Competitors](#performance-relative-to-competitors)
+5. [Recommendations](#recommendations)
+   - [Implement Complex Reward Structures in AI Training](#implement-complex-reward-structures-in-ai-training)
+   - [Allocate Sufficient Computational Resources for Optimal AI Training](#allocate-sufficient-computational-resources-for-optimal-ai-training)
+   - [Suggested Products/Services](#suggested-productsservices)
+   - [Technologies](#technologies)
+   - [Appropriateness](#appropriateness)
+6. [Visual Representation](#visual-representation)
+7. [Citations](#citations)
+
 ## Overview and Origin
 
 **Name of Company:** OpenAI
